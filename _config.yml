@@ -94,10 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "SeungHun Han"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I'm interested in the **Secondary Batteries and the nano structures**."
+  location         : "Ajou Univ., Suwon, Korea"
   email            :
   links:
     - label: "Email"
