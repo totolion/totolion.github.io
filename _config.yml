@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LAB OF HANS"
+title                    : "HANS LAB."
 title_separator          : "-"
 subtitle                 : "Thanks for visiting"# site tagline that appears below site title in masthead
 name                     : "SeungHun Han"
