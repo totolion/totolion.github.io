@@ -5,7 +5,7 @@ layout: posts
 # excerpt: "SKJ Dev Box is a kind of thinking box that dealing with AI. The purpose of this blog is to share a idea, especially how to approach and apply algorithms."
 ---
 
-## Seung Hun  Han
+## SeungHun  Han
 
 - HANS LAB. manager
 - Bachelor's candidate(Chemical Engineering) in 2022, Ajou University
@@ -15,13 +15,11 @@ layout: posts
 
 * 2016~ **B.S. in Chemical Engineering**
 
-  *Thesis: PHODO - a Machine Learning-Based Face Tracking System*
-
   *Ajou University, Suwon, Korea*
 
 ### Research Interests
 
-* Data Science
+* Various 
 * Battery AI
 * Machine Learning
 
